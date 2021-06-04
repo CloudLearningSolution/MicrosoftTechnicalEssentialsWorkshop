@@ -3,11 +3,11 @@ Initial repo during beta dev
 ![Logo of the project](https://flcdnk4-914d.kxcdn.com/img/logo/fast-lane--ng3.png)
 
 # Name of the project
-Microsoft Azure Projects
+JVS SOCAL Talent Program
 
 A brief description of your project
 
-<place holder>
+This courseware is part of a project focused on delivering case study workshops designed to embolden diverse veteran communities through job training, mentoring, and education to transform lives and empower veterans. This course introduces the essentials required for learners to provide value in today’s job markets where modern technology is at the forefront of digital transformation.
 
 ## Installing / Getting started
 
