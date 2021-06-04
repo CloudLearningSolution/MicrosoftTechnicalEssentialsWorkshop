@@ -1,5 +1,3 @@
-# JVSSoCalTalentProgram
-Initial repo during beta dev
 ![Logo of the project](https://flcdnk4-914d.kxcdn.com/img/logo/fast-lane--ng3.png)
 
 # Name of the project
