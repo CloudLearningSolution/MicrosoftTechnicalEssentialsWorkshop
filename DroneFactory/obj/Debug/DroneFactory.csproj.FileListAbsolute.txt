@@ -1,0 +1,7 @@
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneFactory\bin\Debug\DroneFactory.exe.config
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneFactory\bin\Debug\DroneFactory.exe
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneFactory\bin\Debug\DroneFactory.pdb
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneFactory\obj\Debug\DroneFactory.csprojAssemblyReference.cache
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneFactory\obj\Debug\DroneFactory.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneFactory\obj\Debug\DroneFactory.exe
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneFactory\obj\Debug\DroneFactory.pdb

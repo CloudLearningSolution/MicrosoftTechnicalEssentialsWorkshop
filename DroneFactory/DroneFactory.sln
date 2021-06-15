@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DroneFactory", "DroneFactory.csproj", "{9CCFF282-ED60-443E-84D3-E08809796E2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CCFF282-ED60-443E-84D3-E08809796E2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CCFF282-ED60-443E-84D3-E08809796E2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CCFF282-ED60-443E-84D3-E08809796E2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CCFF282-ED60-443E-84D3-E08809796E2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C7BA827-BE45-4CFE-816D-865F53C8E55E}
+	EndGlobalSection
+EndGlobal
