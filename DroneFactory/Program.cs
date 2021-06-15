@@ -9,6 +9,8 @@ using System.Threading.Tasks;
 
 namespace DroneFactory
 {
+    #region
+    //Beginning Region
     class Program
     {
         static void Main(string[] args)
@@ -63,4 +65,5 @@ namespace DroneFactory
             Console.ReadLine();
         }
     }
-}
+}//ending region
+#endregion
