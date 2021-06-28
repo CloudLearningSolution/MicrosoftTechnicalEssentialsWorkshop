@@ -20,7 +20,7 @@ namespace DroneFactory
             string dataProvider =
                 ConfigurationManager.AppSettings["provider"];
             string connectionString =
-                ConfigurationManager.AppSettings["connectionString"];
+                ConfigurationManager.ConnectionStrings["DroneSqlProvider"].ConnectionString;
 
             // Retrieve data provider
             DbProviderFactory factory = DbProviderFactories.GetFactory(dataProvider);
