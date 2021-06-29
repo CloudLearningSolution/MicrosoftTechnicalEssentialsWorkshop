@@ -16,6 +16,6 @@ namespace DroneFactoyAPI.EF
 
         public virtual Customer Customer { get; set; }
 
-        public virtual Inventory Inventory { get; set; }
+        public virtual Drone Drone { get; set; }
     }
 }

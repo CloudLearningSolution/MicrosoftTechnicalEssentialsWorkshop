@@ -7,10 +7,10 @@ namespace DroneFactoyAPI.EF
     using System.Data.Entity.Spatial;
 
     [Table("Inventory")]
-    public partial class Inventory
+    public partial class Drone
     {
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
-        public Inventory()
+        public Drone()
         {
             Orders = new HashSet<Order>();
         }
@@ -22,7 +22,7 @@ namespace DroneFactoyAPI.EF
         public string Make { get; set; }
 
         [StringLength(50)]
-        public string PetName { get; set; }
+        public string DroneNickName { get; set; }
 
         [StringLength(50)]
         public string Color { get; set; }

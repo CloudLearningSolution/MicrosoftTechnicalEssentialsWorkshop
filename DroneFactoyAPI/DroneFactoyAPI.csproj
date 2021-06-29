@@ -54,6 +54,7 @@
   <ItemGroup>
     <Compile Include="EF\Customer.cs" />
     <Compile Include="EF\DroneEntities.cs" />
+    <Compile Include="EF\DronePartial.cs" />
     <Compile Include="EF\Inventory.cs" />
     <Compile Include="EF\Order.cs" />
     <Compile Include="Program.cs" />

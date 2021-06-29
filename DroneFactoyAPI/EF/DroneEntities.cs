@@ -13,7 +13,7 @@ namespace DroneFactoyAPI.EF
         }
 
         public virtual DbSet<Customer> Customers { get; set; }
-        public virtual DbSet<Inventory> Inventories { get; set; }
+        public virtual DbSet<Drone> Drones { get; set; }
         public virtual DbSet<Order> Orders { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
@@ -23,9 +23,9 @@ namespace DroneFactoyAPI.EF
                 .WithRequired(e => e.Customer)
                 .WillCascadeOnDelete(false);
 
-            modelBuilder.Entity<Inventory>()
+            modelBuilder.Entity<Drone>()
                 .HasMany(e => e.Orders)
-                .WithRequired(e => e.Inventory)
+                .WithRequired(e => e.Drone)
                 .WillCascadeOnDelete(false);
         }
     }
