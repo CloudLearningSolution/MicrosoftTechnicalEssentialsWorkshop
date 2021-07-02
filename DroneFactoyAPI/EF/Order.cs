@@ -8,14 +8,19 @@ namespace DroneFactoyAPI.EF
 
     public partial class Order
     {
+        [Key, Required, DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int OrderId { get; set; }
 
+        [Required]
         public int CustId { get; set; }
 
+        [Required]
         public int DroneId { get; set; }
 
+        [ForeignKey("CustId")]
         public virtual Customer Customer { get; set; }
 
+        [ForeignKey("DroneId")]
         public virtual Drone Drone { get; set; }
     }
 }

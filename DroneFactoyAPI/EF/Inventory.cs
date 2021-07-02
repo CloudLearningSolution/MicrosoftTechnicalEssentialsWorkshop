@@ -21,7 +21,7 @@ namespace DroneFactoyAPI.EF
         [StringLength(50)]
         public string Make { get; set; }
 
-        [StringLength(50)]
+        [StringLength(50), Column("PetName")]
         public string DroneNickName { get; set; }
 
         [StringLength(50)]

@@ -12,8 +12,11 @@ namespace DroneFactoyAPI
     {
         static void Main(string[] args)
         {
+            WriteLine("***** Current Drone Inventory *****\n");
+            PrintAllInventory();
+            ReadLine();
         }
-
+        #region
         private static int AddNewRecord()
         {
             // Add record to the inventory table of the drone database
@@ -32,6 +35,17 @@ namespace DroneFactoyAPI
                 {
                     WriteLine(ex.InnerException.Message);
                     return 0;
+                }
+            }
+        }
+        #endregion
+        private static void PrintAllInventory()
+        {
+            using (var context = new DroneEntities())
+            {
+                foreach (Drone d in context.Drones)
+                {
+                    WriteLine(d);
                 }
             }
         }
