@@ -12,9 +12,9 @@ namespace DroneFactoyAPI
     {
         static void Main(string[] args)
         {
-            WriteLine("***** Current Drone Inventory *****\n");
-            PrintAllInventory();
-            ReadLine();
+            //WriteLine("***** Current Drone Inventory *****\n");
+            //PrintAllInventory();
+            //ReadLine();
         }
         #region
         private static int AddNewRecord()
@@ -39,7 +39,7 @@ namespace DroneFactoyAPI
             }
         }
         #endregion
-        private static void PrintAllInventory()
+        public static void PrintAllInventory()
         {
             using (var context = new DroneEntities())
             {

@@ -5,7 +5,6 @@ C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneFacto
 C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneFactoyAPI\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneFactoyAPI\bin\Debug\EntityFramework.xml
 C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneFactoyAPI\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneFactoyAPI\obj\Debug\DroneFactoyAPI.csprojAssemblyReference.cache
 C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneFactoyAPI\obj\Debug\DroneFactoyAPI.csproj.CoreCompileInputs.cache
 C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneFactoyAPI\obj\Debug\DroneFactoyAPI.csproj.CopyComplete
 C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneFactoyAPI\obj\Debug\DroneFactoyAPI.exe
