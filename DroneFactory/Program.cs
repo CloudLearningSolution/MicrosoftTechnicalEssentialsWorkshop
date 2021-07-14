@@ -9,6 +9,8 @@ using System.Threading.Tasks;
 
 namespace DroneFactory
 {
+    #region
+    //Beginning Region
     class Program
     {
         static void Main(string[] args)
@@ -18,7 +20,7 @@ namespace DroneFactory
             string dataProvider =
                 ConfigurationManager.AppSettings["provider"];
             string connectionString =
-                ConfigurationManager.AppSettings["connectionString"];
+                ConfigurationManager.ConnectionStrings["DroneSqlProvider"].ConnectionString;
 
             // Retrieve data provider
             DbProviderFactory factory = DbProviderFactories.GetFactory(dataProvider);
@@ -63,4 +65,5 @@ namespace DroneFactory
             Console.ReadLine();
         }
     }
-}
+}//ending region
+#endregion

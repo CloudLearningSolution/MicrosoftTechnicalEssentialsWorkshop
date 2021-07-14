@@ -1,0 +1,11 @@
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneDAL\bin\Debug\DroneDAL.dll.config
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneDAL\bin\Debug\DroneDAL.dll
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneDAL\bin\Debug\DroneDAL.pdb
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneDAL\bin\Debug\EntityFramework.dll
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneDAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneDAL\bin\Debug\EntityFramework.xml
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneDAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneDAL\obj\Debug\DroneDAL.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneDAL\obj\Debug\DroneDAL.csproj.CopyComplete
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneDAL\obj\Debug\DroneDAL.dll
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneDAL\obj\Debug\DroneDAL.pdb
