@@ -66,7 +66,7 @@ Explain what the previous code actually does.
 
 ## Features
 
-What can the features for this project can accomplish?
+What can the features for this project accomplish?
 * What's the main functionality
 1. <place holder>
 
