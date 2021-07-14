@@ -97,7 +97,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\JVSSoCalTalentProgram\DroneDAL\DroneDAL.csproj">
+    <ProjectReference Include="..\DroneDAL\DroneDAL.csproj">
       <Project>{b82ade5b-b93b-4946-b154-84c5e95bbed0}</Project>
       <Name>DroneDAL</Name>
     </ProjectReference>

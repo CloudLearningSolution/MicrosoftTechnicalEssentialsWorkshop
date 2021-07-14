@@ -12,7 +12,7 @@ namespace DroneFactoyAPI
     {
         static void Main(string[] args)
         {
-            //WriteLine("***** Current Drone Inventory *****\n");
+            //WriteLine("***** Drone Inventory DesktopApp *****\n");
             //PrintAllInventory();
             //ReadLine();
         }

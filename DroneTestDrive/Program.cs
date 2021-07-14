@@ -19,7 +19,7 @@ namespace DroneTestDrive
         static void Main(string[] args)
         {
             Database.SetInitializer(new DataInitializer());
-            WriteLine("***** Print Drone Inventory *****\n");
+            WriteLine("***** Drone Inventory DesktopApp *****\n");
             PrintAllInventory();
             ReadLine();
         }

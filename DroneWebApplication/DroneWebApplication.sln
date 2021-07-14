@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DroneWebApplication", "DroneWebApplication.csproj", "{7F45282C-A1CB-453C-9799-11DC92367879}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DroneDAL", "..\JVSSoCalTalentProgram\DroneDAL\DroneDAL.csproj", "{B82ADE5B-B93B-4946-B154-84C5E95BBED0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DroneDAL", "..\DroneDAL\DroneDAL.csproj", "{B82ADE5B-B93B-4946-B154-84C5E95BBED0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
