@@ -10,6 +10,7 @@ namespace DroneDAL.Models
 {
     public partial class Customer
     {
+        //TODO 2. <place holder for case study workshop lab tasks>
         [Key]
         public int CustId { get; set; }
         [StringLength(50)]

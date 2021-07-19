@@ -6,12 +6,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//TODO Install 3rd party Unit testing tool
 namespace DroneFactory
 {
     #region
     //Beginning Region
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
@@ -59,7 +59,7 @@ namespace DroneFactory
             }
             Console.ReadLine();
         }
-        private static void ShowError(string objectName)
+        public static void ShowError(string objectName)
         {
             Console.WriteLine($"There was an issue creating the {objectName}");
             Console.ReadLine();

@@ -12,6 +12,7 @@ namespace DroneDAL.Models
     {
         public override string ToString()
         {
+            //TODO 5. <place holder for case study workshop lab tasks>
             return $"{this.PetName ?? "**No Name**"} is a {this.Color} {this.Make} with ID {this.DroneId}.";
         }
         [NotMapped]

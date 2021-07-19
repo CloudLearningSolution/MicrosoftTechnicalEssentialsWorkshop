@@ -1,7 +1,15 @@
 C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneFactory\bin\Debug\DroneFactory.exe.config
 C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneFactory\bin\Debug\DroneFactory.exe
 C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneFactory\bin\Debug\DroneFactory.pdb
-C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneFactory\obj\Debug\DroneFactory.csprojAssemblyReference.cache
 C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneFactory\obj\Debug\DroneFactory.csproj.CoreCompileInputs.cache
 C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneFactory\obj\Debug\DroneFactory.exe
 C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneFactory\obj\Debug\DroneFactory.pdb
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneFactory\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneFactory\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneFactory\bin\Debug\nunit.engine.dll
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneFactory\bin\Debug\nunit.engine.api.dll
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneFactory\bin\Debug\nunit.engine.core.dll
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneFactory\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneFactory\bin\Debug\nunit.framework.dll
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneFactory\bin\Debug\nunit.framework.xml
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneFactory\obj\Debug\DroneFactory.csproj.CopyComplete

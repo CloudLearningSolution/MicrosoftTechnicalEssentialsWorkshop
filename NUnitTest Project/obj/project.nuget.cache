@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "zrapu0vE17qOGufG+rdam1IFiQsoxePmnk+V/apDEX7vRtIO2eKLAsYF7xn0zktK1KNC8YHKGnfUkB3gjd8o5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\david\\Desktop\\JVCSoCal_Vet\\Programming\\JVSSoCalTalentProgram\\NUnitTest Project\\NUnitTest Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512"
+  ],
+  "logs": []
+}

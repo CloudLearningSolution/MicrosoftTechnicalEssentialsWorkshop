@@ -8,6 +8,7 @@ using DroneDAL.Models;
 
 namespace DroneDAL.EF
 {
+    //TODO 6. <place holder for case study worskop; learners research the DataInitializer class>
     public class DataInitializer : DropCreateDatabaseAlways<DroneDALEntities>
     {
         protected override void Seed(DroneDALEntities context)

@@ -1,0 +1,20 @@
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\NUnitTest Project\bin\Debug\net472\nunit.engine.core.dll
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\NUnitTest Project\bin\Debug\net472\testcentric.engine.metadata.dll
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\NUnitTest Project\bin\Debug\net472\NUnit3.TestAdapter.dll
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\NUnitTest Project\bin\Debug\net472\NUnit3.TestAdapter.pdb
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\NUnitTest Project\bin\Debug\net472\nunit.engine.dll
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\NUnitTest Project\bin\Debug\net472\nunit.engine.api.dll
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\NUnitTest Project\bin\Debug\net472\NUnitTest Project.dll
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\NUnitTest Project\bin\Debug\net472\NUnitTest Project.pdb
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\NUnitTest Project\bin\Debug\net472\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\NUnitTest Project\bin\Debug\net472\nunit.framework.dll
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\NUnitTest Project\bin\Debug\net472\DroneFactory.exe
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\NUnitTest Project\bin\Debug\net472\DroneFactory.pdb
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\NUnitTest Project\bin\Debug\net472\DroneFactory.exe.config
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\NUnitTest Project\obj\Debug\net472\NUnitTest Project.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\NUnitTest Project\obj\Debug\net472\NUnitTest Project.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\NUnitTest Project\obj\Debug\net472\NUnitTest Project.AssemblyInfo.cs
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\NUnitTest Project\obj\Debug\net472\NUnitTest Project.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\NUnitTest Project\obj\Debug\net472\NUnitTest Project.csproj.CopyComplete
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\NUnitTest Project\obj\Debug\net472\NUnitTest Project.dll
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\NUnitTest Project\obj\Debug\net472\NUnitTest Project.pdb

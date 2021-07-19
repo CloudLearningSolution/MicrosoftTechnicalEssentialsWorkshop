@@ -8,6 +8,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace DroneDAL.Models
 {
+    //TODO 4. <place holder for case study workshop lab tasks>
     public partial class Order
     {
         [Key, Required, DatabaseGenerated(DatabaseGeneratedOption.Identity)]
