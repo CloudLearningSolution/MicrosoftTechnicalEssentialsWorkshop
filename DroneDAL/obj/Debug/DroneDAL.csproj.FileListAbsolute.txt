@@ -9,4 +9,3 @@ C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneDAL\o
 C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneDAL\obj\Debug\DroneDAL.csproj.CopyComplete
 C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneDAL\obj\Debug\DroneDAL.dll
 C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneDAL\obj\Debug\DroneDAL.pdb
-C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneDAL\obj\Debug\DroneDAL.csproj.AssemblyReference.cache
