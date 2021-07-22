@@ -64,7 +64,6 @@ C:\Users\david\Desktop\JVCSoCal_Vet\Programming\DroneWebApplication\obj\Debug\Dr
 C:\Users\david\Desktop\JVCSoCal_Vet\Programming\DroneWebApplication\obj\Debug\DroneWebApplication.csproj.CopyComplete
 C:\Users\david\Desktop\JVCSoCal_Vet\Programming\DroneWebApplication\obj\Debug\DroneWebApplication.dll
 C:\Users\david\Desktop\JVCSoCal_Vet\Programming\DroneWebApplication\obj\Debug\DroneWebApplication.pdb
-C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneWebApplication\obj\Debug\DroneWebApplication.csprojAssemblyReference.cache
 C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneWebApplication\obj\Debug\DroneWebApplication.csproj.CoreCompileInputs.cache
 C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneWebApplication\obj\Debug\DroneWebApplication.dll
 C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneWebApplication\obj\Debug\DroneWebApplication.pdb
@@ -130,3 +129,4 @@ C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneWebAp
 C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneWebApplication\bin\EntityFramework.SqlServer.xml
 C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneWebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneWebApplication\obj\Debug\DroneWebApplication.csproj.CopyComplete
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneWebApplication\obj\Debug\DroneWebApplication.csproj.AssemblyReference.cache
