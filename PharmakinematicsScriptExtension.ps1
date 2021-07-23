@@ -23,49 +23,154 @@
 # SOFTWARE.
 
 Add-WindowsFeature Web-Server
+Add-WindowsFeature Web-Mgmt-Console
+Add-WindowsFeature Web-Mgmt-Service
+Add-WIndowsFeature ASPNet46
 
 # Create directory and default page for Contoso
 New-Item -Path "C:\Users\globaladministrator\Pharmakinematics\repo" -Type "Directory"
 Set-Content -Path "C:\inetpub\wwwroot\Default.htm" -Value "Pharmakinematics Azure virtual machine host name: $($env:computername) !"
 Set-Content -Path "C:\inetpub\wwwroot\iisstart.htm" -Value "Pharmakinematics Azure virtual machine host name: $($env:computername) !"
 
-#################################################################################################################################
-#Region Begin
-<# Notes: configuring Virtual Machine Scale Sets
-#
-#
-# Use Azure CloudShell IDE and Azure PowerShell Module. TODO:
-# Show the resource groups
-##Get-AzResourceGroup
-# Get all Vmss in a resource group
-##Get-AzVmss -ResourceGroupName "<place holder>"
-# Notes: retrieve Virtual Machine Scale Set name value from output
-# 
-#$customConfig = @{
-##"fileUris" = (,"https://raw.githubusercontent.com/<place holder>/<place holder>/main/<replace place holder with directory path including file name>");
-##"commandToExecute" = "powershell -ExecutionPolicy Unrestricted -File PharmakinematicsScriptExtension.ps1"
-#}
-#
-#
-#$vmss = Get-AzVmss `
-##        -ResourceGroupName "<place holder>" `
-##        -VMScaleSetName "<place holder>"
-#
-# Add the Custom Script Extension to install IIS and configure basic website
-#$vmss = Add-AzVmssExtension `
-##-VirtualMachineScaleSet $vmss `
-##-Name "customScript" `
-##-Publisher "Microsoft.Compute" `
-##-Type "CustomScriptExtension" `
-##-TypeHandlerVersion 1.9 `
-##-Setting $customConfig
-##
-# Update the scale set and apply the Custom Script Extension to the VM instances
-#Update-AzVmss `
-##-ResourceGroupName "<place holder>" `
-##-Name "<place holder>" `
-##-VirtualMachineScaleSet $vmss
-#
-##END<body\>#>
-#Region End
+##################################################################################################################################################
+#TODO: Installing VSStudio
+$url = "https://download.visualstudio.microsoft.com/download/pr/acfc792d-506b-4868-9924-aeedc61ae654/2bd17dff1d520ad302d59b06f417097061d7e38a7dcac3099fef906e9c73a331/vs_Community.exe"
+$downloadPath = "C:\Users\globaladministrator\Pharmakinematics\repo"
+$filePath = "C:\Users\globaladministrator\Pharmakinematics\repo\vs_Community.exe"
+#Invoke-WebRequest -URI $url -OutFile $filePath
 
+$workloadArgument = @(
+   
+    '--add Microsoft.VisualStudio.Workload.Azure'
+
+    '--add Microsoft.VisualStudio.Workload.Data'
+
+    '--add Microsoft.VisualStudio.Workload.ManagedDesktop'
+
+    '--add Microsoft.VisualStudio.Workload.NetCoreTools'
+
+    '--add Microsoft.VisualStudio.Workload.NetWeb'
+
+    '--add Component.GitHub.VisualStudio'
+
+    '--add Microsoft.Component.ClickOnce'
+
+    '--add Microsoft.Net.Component.4.7.2.SDK'
+
+    '--add Microsoft.Net.Core.Component.SDK.3.0'
+
+    '--add Microsoft.VisualStudio.Component.Git'
+) 
+
+$optionsAddLayout          = [string]::Join(" ", $workloadArgument )
+$optionsQuiet              = "--quiet"
+$optionsLayout             = "--layout $downloadPath"
+$optionsIncludeRecommended = "--includeRecommended"
+
+$vsOptions = @(
+    $optionsLayout,
+    $optionsIncludeRecommended,
+    $optionsAddLayout
+    $optionsQuiet
+)
+
+$process = Start-Process -FilePath $filePath -ArgumentList $vsOptions, "--passive", "--wait" -wait -PassThru
+Write-Output $process.ExitCode
+
+##################################################################################################################################################################################
+##################################################################################################################################################################################
+#Region Begin..
+<#
+#TODO: create a unique name value of type string
+#TODO: Example 1: pharmakinematicsrg, pharmakinematicsvmss, ( eastus, centralus, westus ), pharmakinematicsvnet, private, pharmakinematicspublicip, pharmakinematicslb, pharmakinematicsnsgrule, pharmakinematicsnsg .
+
+# Provide your own secure password for use with the VM instances
+$cred = Get-Credential
+$resourcegroupname = "<place holder>"
+$vmscalesetname = "<place holder>"
+$location = "<place holder>"
+$virtualnetworkname = "<place holder>"
+$subnetname = "<place holder>"
+$publicipaddressname = "<place holder>"
+$loadbalancername = "<place holder>"
+$networksecuritygrouprulename = "<place holder>"
+$networksecuritygroupname = "<place holder>"
+
+
+
+# Create a virtual machine scale set and supporting resources
+# A resource group, virtual network, load balancer, and NAT rules are automatically
+# created if they do not already exist
+New-AzVmss `
+  -ResourceGroupName $resourcegroupname `
+  -VMScaleSetName $vmscalesetname `
+  -Location $location `
+  -VirtualNetworkName $virtualnetworkname `
+  -SubnetName $subnetname `
+  -PublicIpAddressName $publicipaddressname `
+  -LoadBalancerName $loadbalancername `
+  -UpgradePolicyMode "Automatic" `
+  -Credential $cred `
+  -Zone "1", "2"
+
+# Define the script for your Custom Script Extension to run
+$publicSettings = @{
+    "fileUris" = (,"https://<place holder>/automate-iis.ps1");
+    "commandToExecute" = "powershell -ExecutionPolicy Unrestricted -File <place holder>.ps1"
+}
+
+# Get information about the scale set
+$vmss = Get-AzVmss `
+            -ResourceGroupName $resourcegroupname `
+            -VMScaleSetName $vmscalesetname
+
+# Use Custom Script Extension to install IIS and configure basic website
+Add-AzVmssExtension -VirtualMachineScaleSet $vmss `
+  -Name "customScript" `
+  -Publisher "Microsoft.Compute" `
+  -Type "CustomScriptExtension" `
+  -TypeHandlerVersion 1.9 `
+  -Setting $publicSettings
+
+# Update the scale set and apply the Custom Script Extension to the VM instances
+Update-AzVmss `
+  -ResourceGroupName $resourcegroupname `
+  -Name $vmscalesetname `
+  -VirtualMachineScaleSet $vmss
+
+#Create a rule to allow traffic over port 80
+$nsgFrontendRule = New-AzNetworkSecurityRuleConfig `
+  -Name $networksecuritygrouprulename `
+  -Protocol Tcp `
+  -Direction Inbound `
+  -Priority 200 `
+  -SourceAddressPrefix * `
+  -SourcePortRange * `
+  -DestinationAddressPrefix * `
+  -DestinationPortRange 80, 3389, 443 `
+  -Access Allow
+
+#Create a network security group and associate it with the rule
+$nsgFrontend = New-AzNetworkSecurityGroup `
+  -ResourceGroupName  $resourcegroupname `
+  -Location eastus `
+  -Name $networksecuritygroupname `
+  -SecurityRules $nsgFrontendRule
+
+$vnet = Get-AzVirtualNetwork `
+  -ResourceGroupName  $resourcegroupname `
+  -Name $virtualnetworkname
+
+$frontendSubnet = $vnet.Subnets[0]
+
+$frontendSubnetConfig = Set-AzVirtualNetworkSubnetConfig `
+  -VirtualNetwork $vnet `
+  -Name $subnetname `
+  -AddressPrefix $frontendSubnet.AddressPrefix `
+  -NetworkSecurityGroup $nsgFrontend
+
+Set-AzVirtualNetwork -VirtualNetwork $vnet
+
+Get-AzPublicIpAddress -ResourceGroupName $resourcegroupname | Select IpAddress
+#>
+#Region End...
