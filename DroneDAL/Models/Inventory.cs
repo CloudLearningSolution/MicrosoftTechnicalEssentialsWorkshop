@@ -8,7 +8,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace DroneDAL.Models
 {
-    //TODO 3. <place holder for case study workshop lab tasks>
+    //TODO 3. <place holder for case study workshop 2 lab tasks>
     [Table("Inventory")]
     public partial class Inventory
     {

@@ -17,7 +17,7 @@ namespace DroneWebApplication
         {
 
         }
-        //TODO 1. <place holder for case study workshop lab tasks>
+        //TODO 1. <place holder for case study workshop 2 lab tasks>
         public IEnumerable<Inventory> GetData()
         {
             return new InventoryRepo().GetAll();

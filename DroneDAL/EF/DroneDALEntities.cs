@@ -4,7 +4,7 @@ namespace DroneDAL.EF
     using System.Data.Entity;
     using System.Linq;
     using DroneDAL.Models;
-    //TODO 7. <place holder for case study workshop; learners research the DbContext, and DbSet class>
+    //TODO 7. <place holder for case study workshop 2; learners research the DbContext, and DbSet class>
     public class DroneDALEntities : DbContext
     {
         // Your context has been configured to use a 'DroneDALEntities' connection string from your application's 
