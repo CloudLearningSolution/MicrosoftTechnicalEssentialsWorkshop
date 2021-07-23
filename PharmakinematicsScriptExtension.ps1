@@ -22,26 +22,17 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 
-# Option 1: Custom script extension to install a webserver
-# Notes: Use this if you are creating individual Virtual Machines during virtual machine creation tasks
 Add-WindowsFeature Web-Server
 
 # Create directory and default page for Contoso
-New-Item -Path "C:\inetpub\wwwroot\Pharmakinematics" -Type "Directory"
-Set-Content -Path "C:\inetpub\wwwroot\Pharmakinematics\Default.htm" -Value "Pharmakinematics website on host $($env:computername) !"
-
-# Create IIS app pool and web site for Contoso
-New-WebAppPool -Name "PharmakinematicsAppPool"
-New-WebSite -Name "Pharmakinematics Web Site" -IPAddress "*" -Port 80 -HostHeader "Pharmakinematics" -PhysicalPath "C:\inetpub\Pharmakinematics" -ApplicationPool "PharmakinematicsAppPool"
-
-# Alternatively you can define multiple directories and default pages for Pharmakinematics by copying the previous lines of code.
-
+New-Item -Path "C:\Users\globaladministrator\Pharmakinematics\repo" -Type "Directory"
+Set-Content -Path "C:\inetpub\wwwroot\Default.htm" -Value "Pharmakinematics Azure virtual machine host name: $($env:computername) !"
+Set-Content -Path "C:\inetpub\wwwroot\iisstart.htm" -Value "Pharmakinematics Azure virtual machine host name: $($env:computername) !"
 
 #################################################################################################################################
-# Option 2: Custom script extension to install a webserver
-# Option 2: Clone files from github or any URI and then run the command to execute powershell using custom script extensions.
-# Notes: This section for configuring Virtual Machine Scale Sets
-# Begining<body>
+#Region Begin
+<# Notes: configuring Virtual Machine Scale Sets
+#
 #
 # Use Azure CloudShell IDE and Azure PowerShell Module. TODO:
 # Show the resource groups
@@ -75,5 +66,6 @@ New-WebSite -Name "Pharmakinematics Web Site" -IPAddress "*" -Port 80 -HostHeade
 ##-Name "<place holder>" `
 ##-VirtualMachineScaleSet $vmss
 #
-##END<body\>
+##END<body\>#>
+#Region End
 
