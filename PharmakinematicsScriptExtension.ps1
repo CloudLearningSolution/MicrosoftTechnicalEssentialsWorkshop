@@ -37,7 +37,7 @@ Set-Content -Path "C:\inetpub\wwwroot\iisstart.htm" -Value "Pharmakinematics Azu
 $url = "https://download.visualstudio.microsoft.com/download/pr/acfc792d-506b-4868-9924-aeedc61ae654/2bd17dff1d520ad302d59b06f417097061d7e38a7dcac3099fef906e9c73a331/vs_Community.exe"
 $downloadPath = "C:\Users\globaladministrator\Pharmakinematics\repo"
 $filePath = "C:\Users\globaladministrator\Pharmakinematics\repo\vs_Community.exe"
-#Invoke-WebRequest -URI $url -OutFile $filePath
+Invoke-WebRequest -URI $url -OutFile $filePath
 
 $workloadArgument = @(
    
@@ -64,6 +64,8 @@ $workloadArgument = @(
 
 $optionsAddLayout          = [string]::Join(" ", $workloadArgument )
 $optionsQuiet              = "--quiet"
+$optionsPassive            = "--passive"
+$optionsWait               = "--wait"
 $optionsLayout             = "--layout $downloadPath"
 $optionsIncludeRecommended = "--includeRecommended"
 
@@ -72,9 +74,11 @@ $vsOptions = @(
     $optionsIncludeRecommended,
     $optionsAddLayout
     $optionsQuiet
+    $optionsPassive
+    $optionsWait
 )
 
-$process = Start-Process -FilePath $filePath -ArgumentList $vsOptions, "--passive", "--wait" -wait -PassThru
+$process = Start-Process -FilePath $filePath -ArgumentList $vsOptions
 Write-Output $process.ExitCode
 
 ##################################################################################################################################################################################
