@@ -21,6 +21,7 @@
 # LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
+Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Force
 
 Add-WindowsFeature Web-Server
 Add-WindowsFeature Web-Mgmt-Console
@@ -33,7 +34,7 @@ Set-Content -Path "C:\inetpub\wwwroot\Default.htm" -Value "Pharmakinematics Azur
 Set-Content -Path "C:\inetpub\wwwroot\iisstart.htm" -Value "Pharmakinematics Azure virtual machine host name: $($env:computername) !"
 
 ##################################################################################################################################################
-#TODO: Installing VSStudio
+#TODO: Automate Installing Visual Studio 2019 Community Edition
 $url = "https://download.visualstudio.microsoft.com/download/pr/acfc792d-506b-4868-9924-aeedc61ae654/2bd17dff1d520ad302d59b06f417097061d7e38a7dcac3099fef906e9c73a331/vs_Community.exe"
 $downloadPath = "C:\Users\globaladministrator\Pharmakinematics\repo"
 $filePath = "C:\Users\globaladministrator\Pharmakinematics\repo\vs_Community.exe"
@@ -57,8 +58,6 @@ $workloadArgument = @(
 
     '--add Microsoft.Net.Component.4.7.2.SDK'
 
-    '--add Microsoft.Net.Core.Component.SDK.3.0'
-
     '--add Microsoft.VisualStudio.Component.Git'
 ) 
 
@@ -72,14 +71,19 @@ $optionsIncludeRecommended = "--includeRecommended"
 $vsOptions = @(
     $optionsLayout,
     $optionsIncludeRecommended,
-    $optionsAddLayout
-    $optionsQuiet
-    $optionsPassive
+    $optionsAddLayout,
+    $optionsQuiet,
+    $optionsPassive,
     $optionsWait
 )
 
 $process = Start-Process -FilePath $filePath -ArgumentList $vsOptions
 Write-Output $process.ExitCode
+
+C:\Users\globaladministrator\Pharmakinematics\repo\vs_setup.exe --noweb --passive --norestart --add Microsoft.VisualStudio.Workload.Azure --add Microsoft.VisualStudio.Workload.Data --add Microsoft.VisualStudio.Workload.ManagedDesktop --add Microsoft.VisualStudio.Workload.NetCoreTools --add Microsoft.VisualStudio.Workload.NetWeb --add Component.GitHub.VisualStudio --add Microsoft.Component.ClickOnce --add Microsoft.Net.Component.4.7.2.SDK --add Microsoft.VisualStudio.Component.Git --includeOptional
+
+
+
 
 ##################################################################################################################################################################################
 ##################################################################################################################################################################################
