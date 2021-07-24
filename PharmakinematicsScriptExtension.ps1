@@ -1,7 +1,7 @@
 ﻿#!/bin/bash
 
 # The Fast Lane License ()
-#
+<#
 # Copyright (c) 2021 Fast Lane
 #
 # Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -21,25 +21,32 @@
 # LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
-# Custom Script Extension Version 2
+#>
+
+# Fast Lane Custom Script Extension V2
+
+# Execution Policy
 Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Force
 
+# Windows Server Roles and Features
 Add-WindowsFeature Web-Server
 Add-WindowsFeature Web-Mgmt-Console
 Add-WindowsFeature Web-Mgmt-Service
 
-# Create directory and default page for Contoso
+# Directory
 New-Item -Path "C:\Users\globaladministrator\Pharmakinematics\repo" -Type "Directory"
+
+# Internet Information Services root paths
 Set-Content -Path "C:\inetpub\wwwroot\Default.htm" -Value "Pharmakinematics Azure virtual machine host name: $($env:computername) !"
 Set-Content -Path "C:\inetpub\wwwroot\iisstart.htm" -Value "Pharmakinematics Azure virtual machine host name: $($env:computername) !"
 
-##################################################################################################################################################
-#TODO: Automate Installing Visual Studio 2019 Community Edition
+# Visual Studio
 $url = "https://download.visualstudio.microsoft.com/download/pr/acfc792d-506b-4868-9924-aeedc61ae654/2bd17dff1d520ad302d59b06f417097061d7e38a7dcac3099fef906e9c73a331/vs_Community.exe"
 $downloadPath = "C:\Users\globaladministrator\Pharmakinematics\repo"
 $filePath = "C:\Users\globaladministrator\Pharmakinematics\repo\vs_Community.exe"
 Invoke-WebRequest -URI $url -OutFile $filePath
 
+# Visual Studio Workload Component IDs
 $workloadArgument = @(
    
     '--add Microsoft.VisualStudio.Workload.Azure'
@@ -60,7 +67,7 @@ $workloadArgument = @(
 
     '--add Microsoft.VisualStudio.Component.Git'
 ) 
-
+# vs_Community.exe Command Line Arguments
 $optionsAddLayout          = [string]::Join(" ", $workloadArgument )
 $optionsQuiet              = "--quiet"
 $optionsPassive            = "--passive"
@@ -76,14 +83,15 @@ $vsOptions = @(
     #optionsPassive
     #$optionsWait
 )
-
-Start-Process -FilePath $filePath -ArgumentList $vsOptions
+# Start Multiple Processes but "WAIT" for Last Process to Complete
+Start-Process -FilePath $filePath -ArgumentList $vsOptions -Wait
 
 Start-Process -FilePath "vs_Community" -WorkingDirectory "C:\Users\globaladministrator\Pharmakinematics\repo" -ArgumentList "--passive", "--norestart", "--add Microsoft.VisualStudio.Workload.Azure", "--add Microsoft.VisualStudio.Workload.Data", "--add Microsoft.VisualStudio.Workload.ManagedDesktop", "--add Microsoft.VisualStudio.Workload.NetCoreTools", "--add Microsoft.VisualStudio.Workload.NetWeb", "--add Component.GitHub.VisualStudio", "--add Microsoft.Component.ClickOnce", "--add Microsoft.Net.Component.4.7.2.SDK", "--add Microsoft.VisualStudio.Component.Git", "--includeOptional" -Wait
 
-##################################################################################################################################################################################
-##################################################################################################################################################################################
-#Region Begin..Fault Tolerant VMSS
+Restart-Computer -AsJob -Force -Verbose
+
+# TODO : DO NOT EDIT THE COMMENTED SECTION BELOW. COMMITED BY DAVID SANTANA.
+#Region Begin.. Implementing Fault Tolerant Virtual Machine Scaled Sets
 <#
 #TODO: create a unique name value of type string
 #TODO: Example 1: pharmakinematicsrg, pharmakinematicsvmss, ( eastus, centralus, westus ), pharmakinematicsvnet, private, pharmakinematicspublicip, pharmakinematicslb, pharmakinematicsnsgrule, pharmakinematicsnsg .
