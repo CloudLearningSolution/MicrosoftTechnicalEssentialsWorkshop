@@ -21,12 +21,12 @@
 # LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
+# Custom Script Extension Version 2
 Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Force
 
 Add-WindowsFeature Web-Server
 Add-WindowsFeature Web-Mgmt-Console
 Add-WindowsFeature Web-Mgmt-Service
-Add-WIndowsFeature ASPNet46
 
 # Create directory and default page for Contoso
 New-Item -Path "C:\Users\globaladministrator\Pharmakinematics\repo" -Type "Directory"
@@ -72,22 +72,18 @@ $vsOptions = @(
     $optionsLayout,
     $optionsIncludeRecommended,
     $optionsAddLayout,
-    $optionsQuiet,
-    $optionsPassive,
-    $optionsWait
+    $optionsQuiet
+    #optionsPassive
+    #$optionsWait
 )
 
-$process = Start-Process -FilePath $filePath -ArgumentList $vsOptions
-Write-Output $process.ExitCode
+Start-Process -FilePath $filePath -ArgumentList $vsOptions
 
-C:\Users\globaladministrator\Pharmakinematics\repo\vs_setup.exe --noweb --passive --norestart --add Microsoft.VisualStudio.Workload.Azure --add Microsoft.VisualStudio.Workload.Data --add Microsoft.VisualStudio.Workload.ManagedDesktop --add Microsoft.VisualStudio.Workload.NetCoreTools --add Microsoft.VisualStudio.Workload.NetWeb --add Component.GitHub.VisualStudio --add Microsoft.Component.ClickOnce --add Microsoft.Net.Component.4.7.2.SDK --add Microsoft.VisualStudio.Component.Git --includeOptional
-
-
-
+Start-Process -FilePath "vs_Community" -WorkingDirectory "C:\Users\globaladministrator\Pharmakinematics\repo" -ArgumentList "--passive", "--norestart", "--add Microsoft.VisualStudio.Workload.Azure", "--add Microsoft.VisualStudio.Workload.Data", "--add Microsoft.VisualStudio.Workload.ManagedDesktop", "--add Microsoft.VisualStudio.Workload.NetCoreTools", "--add Microsoft.VisualStudio.Workload.NetWeb", "--add Component.GitHub.VisualStudio", "--add Microsoft.Component.ClickOnce", "--add Microsoft.Net.Component.4.7.2.SDK", "--add Microsoft.VisualStudio.Component.Git", "--includeOptional"
 
 ##################################################################################################################################################################################
 ##################################################################################################################################################################################
-#Region Begin..
+#Region Begin..Fault Tolerant VMSS
 <#
 #TODO: create a unique name value of type string
 #TODO: Example 1: pharmakinematicsrg, pharmakinematicsvmss, ( eastus, centralus, westus ), pharmakinematicsvnet, private, pharmakinematicspublicip, pharmakinematicslb, pharmakinematicsnsgrule, pharmakinematicsnsg .
