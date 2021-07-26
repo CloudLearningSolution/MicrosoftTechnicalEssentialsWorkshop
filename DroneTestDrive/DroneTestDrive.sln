@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DroneTestDrive", "DroneTest
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DroneDAL", "..\DroneDAL\DroneDAL.csproj", "{B82ADE5B-B93B-4946-B154-84C5E95BBED0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DroneInventoryGUI", "..\DroneInventoryGUI\DroneInventoryGUI.csproj", "{DD612AF3-BE03-4423-B5EB-159BE21ADFFD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B82ADE5B-B93B-4946-B154-84C5E95BBED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B82ADE5B-B93B-4946-B154-84C5E95BBED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B82ADE5B-B93B-4946-B154-84C5E95BBED0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD612AF3-BE03-4423-B5EB-159BE21ADFFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD612AF3-BE03-4423-B5EB-159BE21ADFFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD612AF3-BE03-4423-B5EB-159BE21ADFFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD612AF3-BE03-4423-B5EB-159BE21ADFFD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
