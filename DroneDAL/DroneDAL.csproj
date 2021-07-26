@@ -53,6 +53,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DisconnectedLayer\InventoryDALDC.cs" />
     <Compile Include="EF\DataInitializer.cs" />
     <Compile Include="EF\DroneDALEntities.cs" />
     <Compile Include="Models\Customer.cs" />
