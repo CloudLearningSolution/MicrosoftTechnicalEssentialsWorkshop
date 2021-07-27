@@ -23,7 +23,6 @@ C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneTestD
 C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneTestDrive\bin\Debug\DroneDAL.dll.config
 C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneTestDrive\bin\Debug\EntityFramework.xml
 C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneTestDrive\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneTestDrive\obj\Debug\DroneTestDrive.csprojAssemblyReference.cache
 C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneTestDrive\obj\Debug\DroneTestDrive.csproj.CoreCompileInputs.cache
 C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneTestDrive\obj\Debug\DroneTestDrive.csproj.CopyComplete
 C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneTestDrive\obj\Debug\DroneTestDrive.exe
@@ -43,3 +42,4 @@ C:\Users\david\repo\JVSSoCalTalentProgram-main\DroneTestDrive\obj\Debug\DroneTes
 C:\Users\david\repo\JVSSoCalTalentProgram-main\DroneTestDrive\obj\Debug\DroneTestDrive.csproj.CopyComplete
 C:\Users\david\repo\JVSSoCalTalentProgram-main\DroneTestDrive\obj\Debug\DroneTestDrive.exe
 C:\Users\david\repo\JVSSoCalTalentProgram-main\DroneTestDrive\obj\Debug\DroneTestDrive.pdb
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneTestDrive\obj\Debug\DroneTestDrive.csproj.AssemblyReference.cache
