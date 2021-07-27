@@ -53,4 +53,4 @@ Start-Process -FilePath "vs_Community" -WorkingDirectory "C:\Users\globaladminis
 # Start-Process -FilePath "vs_Community" -WorkingDirectory "C:\Users\globaladministrator\Pharmakinematics\repo" -ArgumentList "--passive", "--layout $downloadPath"
 
 # Execute Setup
-Start-Process -FilePath "vs_setup.exe" -WorkingDirectory "C:\Users\globaladministrator\Pharmakinematics\repo" -ArgumentList "--passive"
+# Start-Process -FilePath "vs_setup.exe" -WorkingDirectory "C:\Users\globaladministrator\Pharmakinematics\repo" -ArgumentList "--passive" -wait
