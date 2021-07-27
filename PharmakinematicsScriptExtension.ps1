@@ -47,10 +47,10 @@ $filePath = "C:\Users\globaladministrator\Pharmakinematics\repo\vs_Community.exe
 Invoke-WebRequest -URI $url -OutFile $filePath
 
 # Visual Studio Workload Component IDs
-Start-Process -FilePath "vs_Community" -WorkingDirectory "C:\Users\globaladministrator\Pharmakinematics\repo" -ArgumentList "--passive", "--norestart", "--add Microsoft.VisualStudio.Workload.Azure", "--add Microsoft.VisualStudio.Workload.Data", "--add Microsoft.VisualStudio.Workload.ManagedDesktop", "--add Microsoft.VisualStudio.Workload.NetCoreTools", "--add Microsoft.VisualStudio.Workload.NetWeb", "--add Component.GitHub.VisualStudio", "--add Microsoft.Component.ClickOnce", "--add Microsoft.Net.Component.4.7.2.SDK", "--add Microsoft.VisualStudio.Component.Git", "--layout $downloadPath", "--includeRecommended" -Wait
+Start-Process -FilePath "vs_Community" -WorkingDirectory "C:\Users\globaladministrator\Pharmakinematics\repo" -ArgumentList "--passive", "--norestart", "--add Microsoft.VisualStudio.Workload.Azure", "--add Microsoft.VisualStudio.Workload.Data", "--add Microsoft.VisualStudio.Workload.ManagedDesktop", "--add Microsoft.VisualStudio.Workload.NetCoreTools", "--add Microsoft.VisualStudio.Workload.NetWeb", "--add Component.GitHub.VisualStudio", "--add Microsoft.Component.ClickOnce", "--add Microsoft.Net.Component.4.7.2.SDK", "--add Microsoft.VisualStudio.Component.Git", "--layout $downloadPath", "--includeRecommended"
 
 # Verify Workload Layout
 # Start-Process -FilePath "vs_Community" -WorkingDirectory "C:\Users\globaladministrator\Pharmakinematics\repo" -ArgumentList "--passive", "--layout $downloadPath"
 
 # Execute Setup
-Start-Process -FilePath "vs_setup.exe" -WorkingDirectory "C:\Users\globaladministrator\Pharmakinematics\repo" -ArgumentList "--passive"
+Start-Process -FilePath "vs_setup.exe" -WorkingDirectory "C:\Users\globaladministrator\Pharmakinematics\repo" -ArgumentList "--passive" -Wait
