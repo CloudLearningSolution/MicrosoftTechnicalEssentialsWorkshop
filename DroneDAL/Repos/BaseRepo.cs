@@ -14,6 +14,7 @@ namespace DroneDAL.Repos
         public DroneDALEntities Context { get; } = new DroneDALEntities();
         protected DbSet<T> Table;
 
+        //Methods of the interface to implement. They pass through the parameters to the DbSet<T>.
         public T GetOne(int? id) => Table.Find(id);
 
         public async Task<T> GetOneAsync(int? id) => await Table.FindAsync(id);

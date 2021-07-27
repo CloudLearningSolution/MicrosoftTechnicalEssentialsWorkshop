@@ -8,11 +8,12 @@ using DroneDAL.Models;
 
 namespace DroneDAL.EF
 {
-    //TODO 6. <place holder for case study worskop; learners research the DataInitializer class>
+    //TODO 6. What is Entity Framework and why utilize DataInitializer class?
     public class DataInitializer : DropCreateDatabaseAlways<DroneDALEntities>
     {
         protected override void Seed(DroneDALEntities context)
         {
+            //TODO 9. Define a new System Collection Generic List. Make the List of customer objects, filled with collection object instantiation syntax.
             var customers = new List<Customer>
             {
                 new Customer {FirstName = "David", LastName = "Santana"},
@@ -20,6 +21,7 @@ namespace DroneDAL.EF
                 new Customer {FirstName = "Wendy", LastName = "Wiessner"},
                 new Customer {FirstName = "Rachel", LastName = "MCInerney Mangum"},
                 new Customer {FirstName = "Dan", LastName = "Obrian"},
+                
             };
             customers.ForEach(x => context.Customers.Add(x));
             var drones = new List<Inventory>

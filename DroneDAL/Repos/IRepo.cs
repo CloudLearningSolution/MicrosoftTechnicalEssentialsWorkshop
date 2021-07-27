@@ -7,7 +7,7 @@ using DroneDAL.Models;
 
 namespace DroneDAL.Repos
 {
-    //TODO 8. <place holder for case study workshop 2; learners research Interface types>
+    //TODO 8. What does an interface type expose?
     interface IRepo<T>
     {
         int Add(T entity);

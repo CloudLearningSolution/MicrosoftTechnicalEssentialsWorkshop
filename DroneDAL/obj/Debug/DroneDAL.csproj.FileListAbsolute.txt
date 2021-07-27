@@ -21,3 +21,4 @@ C:\Users\david\repo\JVSSoCalTalentProgram-main\DroneDAL\obj\Debug\DroneDAL.cspro
 C:\Users\david\repo\JVSSoCalTalentProgram-main\DroneDAL\obj\Debug\DroneDAL.dll
 C:\Users\david\repo\JVSSoCalTalentProgram-main\DroneDAL\obj\Debug\DroneDAL.pdb
 C:\Users\david\repo\JVSSoCalTalentProgram-main\DroneDAL\obj\Debug\DroneDAL.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\JVSSoCalTalentProgram\DroneDAL\obj\Debug\DroneDAL.csproj.AssemblyReference.cache
