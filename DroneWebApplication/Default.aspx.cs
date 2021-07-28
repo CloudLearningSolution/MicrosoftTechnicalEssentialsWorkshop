@@ -36,7 +36,7 @@ namespace DroneWebApplication
             /// </summary>
             /// <returns></returns>
             // WHERE TO CODE: Place cursor at the end of this sentence and then Press Enter.
-
+            System.Diagnostics.Trace.WriteLine("Default.aspx", "Getting Data");
             return new InventoryRepo().GetAll();
         }
     }
