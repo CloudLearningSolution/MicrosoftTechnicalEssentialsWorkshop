@@ -1,99 +1,57 @@
-# JVSSoCalTalentProgram
-Initial repo during beta dev
-![Logo of the project](https://flcdnk4-914d.kxcdn.com/img/logo/fast-lane--ng3.png)
+# Microsoft Technical Essentials Wokshop
+Sponsered by ![Logo of the project](https://flcdnk4-914d.kxcdn.com/img/logo/fast-lane--ng3.png)
 
 # Name of the project
-JVS SOCAL Talent Program
+JVS SoCaL Veterans Talent Program
 
-A brief description of your project
-
-This courseware is part of a project focused on delivering case study workshops designed to embolden diverse veteran communities through job training, mentoring, and education to transform lives and empower veterans. This course introduces the essentials required for learners to provide value in today’s job markets where modern technology is at the forefront of digital transformation.
+# Overview
+This repository is part of a project focused on delivering case study workshops designed to embolden diverse veteran communities through job training, mentoring, and education to transform lives and empower veterans. This course introduces the essentials required for learners to provide value in today’s job markets where modern technology is at the forefront of digital transformation.
 
 ## Installing / Getting started
 
-A quick introduction of the minimal setup you need to get started.
-
-```code to automate or manual task
-<place holder> Example: System.Console.WriteLine("Fast Lane rocks!");
-```
-
-what actually happens when you execute.
-
-example output: Fast Lane rocks!
+•	An internet browser, Edge, and Chrome are recommended.
+•	Student Guide.
+•	Access to Go Deploy Labs.
+•	Updated version of Windows, MAC, or Linux computer operating systems.
 
 ### Initial Configuration
 
-Some projects require initial configuration.
-This is the section where you would document those requirements.
-
-
-
+All projects inlcuded in this repo require Go Deploy Labs.
 ## Developing
 
-Here's a brief intro about what a developer must do in order to start developing
-the project further:
+Visual Studio 2017 or later versions.
+Visual Studio community editions supported.
+Sql Server Express edition with LocalDb configuration.
 
-``` code to automate or manual task
-<place holder> Example: System.Console.WriteLine("Fast Lane rocks!");
-```
 
-And state what happens step-by-step.
-
-1. <place holder>
-2. <place holder>
-3. <place holder>
+Instructions are included after attendees register for the program.
 
 ### Building
 
-If your project needs some additional steps for the developer to build the
-project after some code changes, state them here:
-
-```code to automate or manual task
-<place holder> Example: System.Console.WriteLine("Fast Lane rocks!");
-```
-
+Repository owner will maintain src code and ensure portability.
 
 ### Deploying / Publishing
 
-In case there's some step you have to take that publishes this project to a
-server, this is the right time to state it.
-
-```code to automate or manual task
-<place holder> Example: System.Console.WriteLine("Fast Lane rocks!");
-```
-
-Explain what the previous code actually does.
+WebDeploy
+ClickOnce
 
 ## Features
 
-What can the features for this project accomplish?
-* What's the main functionality
-1. <place holder>
+Entity Framework exposes Drone Inventory date on ASP.NET Web Application
+
+Desktop application reads and writes using sql data client connection object.
+
+Console application delivers interactive user experience with Sql Server.
 
 ## Configuration
 
-Here you should write what are all of the configurations a user can enter when
-using the project.
+Configuration information details are available to registered attendees
 
 #### Argument 1
-Type: `String`
-Default: `'default value'`
+No unique parameters or args.
 
-State what an argument does and how you can use it. If needed, you can provide
-an example below.
-
-Example:
-code to automate or manual task
-<place holder> Example: System.Console.WriteLine("Fast Lane rocks!");
-
-#### Argument 2
-Type: `Number|Boolean`
-Default: 100
-
-Copy-paste as many of these as you need.
 
 ## Contributing
-
 
 "If you'd like to contribute, please fork(copy) the repository and use a feature (non master)
 branch. Pull (colloborative review) requests are warmly welcome."
@@ -105,21 +63,19 @@ consideration, it is common to separate this section to its own file called
 
 ## Links
 
-Even though this information can be found inside the project on machine-readable
-format like in a .json file, it's good to include a summary of most useful
-links to humans using your project. You can include links like:
+Resources:
 
-- Project homepage: <place holder>
-- Repository: <place holder>
-- Issue tracker: <place holder>
+- Project homepage: https://www.fastlane.live/us_en/
+- Repository: https://github.com/FastLaneUS/MicrosoftTechnicalEssentialsWorkshop
+- Issue tracker: https://github.com/FastLaneUS/MicrosoftTechnicalEssentialsWorkshop/issues
   - In case of sensitive bugs like security vulnerabilities, please contact
     david.santana@fastlaneus.com directly instead of using issue tracker. We value your effort
     to improve the security and privacy of this project!
-- Related projects: <place holder>
-  - Your other project: <place holder>
-  - Someone else's project: <place holder>
 
 
 ## Licensing
+Copyright information
+Information in this document, including URL and other Internet Web site references, is subject to change without notice. Unless otherwise noted, the example companies, organizations, products, domain names, e-mail addresses, logos, people, places, and events depicted herein are fictitious, and no association with any real company, organization, product, domain name, e-mail address, logo, person, place, or event is intended or should be inferred. Complying with all applicable copyright laws is the responsibility of the user. Without limiting the rights under copyright, no part of this document may be reproduced, stored in, or introduced into a retrieval system, or transmitted in any form or by any means (electronic, mechanical, photocopying, recording, or otherwise), or for any purpose, without the express written permission of Fast Lane US Corporation.
+Fast Lane US may have patents, patent applications, trademarks, copyrights, or other intellectual property rights covering subject matter in this document. Except as expressly provided in any written license agreement from Fast Lane US, the furnishing of this document does not give you any license to these patents, trademarks, copyrights, or other intellectual property.
+The names of manufacturers, products, or URLs are provided for informational purposes only and Fast Lane US makes no representations and warranties, either expressed, implied, or statutory, regarding these manufacturers or the use of the products with any Fast Lane US technologies. The inclusion of a manufacturer or product does not imply endorsement of Fast Lane US of the manufacturer or product. Links may be provided to third party sites. Such sites are not under the control of Fast Lane US and Fast Lane US is not responsible for the contents of any linked site or any link contained in a linked site, or any changes or updates to such sites. Fast Lane US is not responsible for webcasting, or any other form of transmission received from any linked site. Fast Lane US is providing these links to you only as a convenience, and the inclusion of any link does not imply endorsement of Fast Lane US of the site, or the products contained therein.
 
-"The project is licensed under Fast Lane license."
