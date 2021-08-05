@@ -1,5 +1,8 @@
 # Microsoft Technical Essentials Wokshop
-Sponsered by ![Logo of the project](https://flcdnk4-914d.kxcdn.com/img/logo/fast-lane--ng3.png)
+Sponsered by ![Logo of the project](https://biz.prlog.org/JVSSoCal/logo.jpg)
+Sponsered by Microsoft Learn : https://learn.microsoft.com/#/
+Developed by FastLane Training : https://www.fastlane.live/us_en/
+
 
 # Name of the project
 JVS SoCaL Veterans Talent Program
@@ -9,6 +12,7 @@ This repository is part of a project focused on delivering case study workshops 
 
 ## Installing / Getting started
 
+> Contact FastLane training on how to enroll.
 •	An internet browser, Edge, and Chrome are recommended.
 •	Student Guide.
 •	Access to Go Deploy Labs.
