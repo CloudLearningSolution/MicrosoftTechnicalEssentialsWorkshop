@@ -1,7 +1,7 @@
 # Microsoft Technical Essentials Wokshop
 Sponsered by ![Logo of the project](https://biz.prlog.org/JVSSoCal/logo.jpg)
-Sponsered by Microsoft Learn : https://learn.microsoft.com/#/
-Developed by FastLane Training : https://www.fastlane.live/us_en/
+- Sponsered by Microsoft Learn : https://learn.microsoft.com/#/
+- Developed by FastLane Training : https://www.fastlane.live/us_en/
 
 
 ## Name of the project
