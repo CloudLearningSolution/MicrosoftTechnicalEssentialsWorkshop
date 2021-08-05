@@ -1,5 +1,0 @@
-C:\Users\david\repo\JVSSoCalTalentProgram-main\DroneFactoryAPI\bin\Debug\DroneFactoryAPI.dll
-C:\Users\david\repo\JVSSoCalTalentProgram-main\DroneFactoryAPI\bin\Debug\DroneFactoryAPI.pdb
-C:\Users\david\repo\JVSSoCalTalentProgram-main\DroneFactoryAPI\obj\Debug\DroneFactoryAPI.csproj.CoreCompileInputs.cache
-C:\Users\david\repo\JVSSoCalTalentProgram-main\DroneFactoryAPI\obj\Debug\DroneFactoryAPI.dll
-C:\Users\david\repo\JVSSoCalTalentProgram-main\DroneFactoryAPI\obj\Debug\DroneFactoryAPI.pdb

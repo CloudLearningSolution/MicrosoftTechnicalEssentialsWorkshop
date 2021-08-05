@@ -1,0 +1,10 @@
+C:\Users\david\repo\JVSSoCalTalentProgram-main2\DroneCommandConsole\bin\Debug\DroneCommandConsole.exe.config
+C:\Users\david\repo\JVSSoCalTalentProgram-main2\DroneCommandConsole\bin\Debug\DroneCommandConsole.exe
+C:\Users\david\repo\JVSSoCalTalentProgram-main2\DroneCommandConsole\bin\Debug\DroneCommandConsole.pdb
+C:\Users\david\repo\JVSSoCalTalentProgram-main2\DroneCommandConsole\bin\Debug\DroneFactoryAPI.dll
+C:\Users\david\repo\JVSSoCalTalentProgram-main2\DroneCommandConsole\bin\Debug\DroneFactoryAPI.pdb
+C:\Users\david\repo\JVSSoCalTalentProgram-main2\DroneCommandConsole\obj\Debug\DroneCommandConsole.csproj.AssemblyReference.cache
+C:\Users\david\repo\JVSSoCalTalentProgram-main2\DroneCommandConsole\obj\Debug\DroneCommandConsole.csproj.CoreCompileInputs.cache
+C:\Users\david\repo\JVSSoCalTalentProgram-main2\DroneCommandConsole\obj\Debug\DroneCommandConsole.csproj.CopyComplete
+C:\Users\david\repo\JVSSoCalTalentProgram-main2\DroneCommandConsole\obj\Debug\DroneCommandConsole.exe
+C:\Users\david\repo\JVSSoCalTalentProgram-main2\DroneCommandConsole\obj\Debug\DroneCommandConsole.pdb
