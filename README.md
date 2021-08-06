@@ -1,47 +1,50 @@
 # Microsoft Technical Essentials Wokshop
 Sponsered by ![Logo of the project](https://biz.prlog.org/JVSSoCal/logo.jpg)
-Sponsered by Microsoft Learn : https://learn.microsoft.com/#/
-Developed by FastLane Training : https://www.fastlane.live/us_en/
+- Sponsered by Microsoft Learn : https://learn.microsoft.com/#/
+- Developed by FastLane Training : https://www.fastlane.live/us_en/
 
 
-# Name of the project
+## Name of the project
 JVS SoCaL Veterans Talent Program
 
-# Overview
+## Overview
 This repository is part of a project focused on delivering case study workshops designed to embolden diverse veteran communities through job training, mentoring, and education to transform lives and empower veterans. This course introduces the essentials required for learners to provide value in today’s job markets where modern technology is at the forefront of digital transformation.
 
 ## Installing / Getting started
 
-> Contact FastLane training on how to enroll.
-•	An internet browser, Edge, and Chrome are recommended.
-•	Student Guide.
-•	Access to Go Deploy Labs.
-•	Updated version of Windows, MAC, or Linux computer operating systems.
+**Contact FastLane training on how to enroll.**
+- An internet browser, Edge, and Chrome are recommended.
+- Student Guide.
+- Access to Go Deploy Labs.
+- Updated version of Windows, MAC, or Linux computer operating systems.
 
-### Initial Configuration
+## Initial Configuration
 
-All projects inlcuded in this repo require Go Deploy Labs.
+> All projects included in this repo require Go Deploy Labs.
+
 ## Developing
 
-Visual Studio 2017 or later versions.
-Visual Studio community editions supported.
-Sql Server Express edition with LocalDb configuration.
+- Visual Studio 2017 or later versions.
+- Visual Studio community editions supported.
+- Sql Server Express edition with LocalDb configuration.
 
 
-Instructions are included after attendees register for the program.
+> Instructions are included after attendees register for the program.
 
-### Building
+## Building
 
 Repository owner will maintain src code and ensure portability.
 
-### Deploying / Publishing
+## Deploying / Publishing
 
+Build Artifacts
+Azure DevOps Release Pipeline
 WebDeploy
 ClickOnce
 
 ## Features
 
-Entity Framework exposes Drone Inventory date on ASP.NET Web Application
+Entity Framework exposes Drone Inventory date on a ASP.NET Web Application
 
 Desktop application reads and writes using sql data client connection object.
 
@@ -51,7 +54,7 @@ Console application delivers interactive user experience with Sql Server.
 
 Configuration information details are available to registered attendees
 
-#### Argument 1
+## Argument 1
 No unique parameters or args.
 
 
