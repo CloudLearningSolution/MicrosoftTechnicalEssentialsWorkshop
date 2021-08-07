@@ -61,7 +61,7 @@ New-AzVmss `
 
 # Define the script for your Custom Script Extension to run
 $publicSettings = @{
-    "fileUris" = (,"https://<place holder>/automate-iis.ps1");
+    "fileUris" = (,"https://<place holder>/<place holder>.ps1");
     "commandToExecute" = "powershell -ExecutionPolicy Unrestricted -File <place holder>.ps1"
 }
 
