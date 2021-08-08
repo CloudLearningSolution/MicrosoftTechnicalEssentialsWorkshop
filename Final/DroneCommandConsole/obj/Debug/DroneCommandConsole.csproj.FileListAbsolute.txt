@@ -8,3 +8,13 @@ C:\Users\david\repo\JVSSoCalTalentProgram-main2\DroneCommandConsole\obj\Debug\Dr
 C:\Users\david\repo\JVSSoCalTalentProgram-main2\DroneCommandConsole\obj\Debug\DroneCommandConsole.csproj.CopyComplete
 C:\Users\david\repo\JVSSoCalTalentProgram-main2\DroneCommandConsole\obj\Debug\DroneCommandConsole.exe
 C:\Users\david\repo\JVSSoCalTalentProgram-main2\DroneCommandConsole\obj\Debug\DroneCommandConsole.pdb
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Final\DroneCommandConsole\bin\Debug\DroneCommandConsole.exe.config
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Final\DroneCommandConsole\bin\Debug\DroneCommandConsole.exe
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Final\DroneCommandConsole\bin\Debug\DroneCommandConsole.pdb
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Final\DroneCommandConsole\bin\Debug\DroneFactoryAPI.dll
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Final\DroneCommandConsole\bin\Debug\DroneFactoryAPI.pdb
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Final\DroneCommandConsole\obj\Debug\DroneCommandConsole.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Final\DroneCommandConsole\obj\Debug\DroneCommandConsole.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Final\DroneCommandConsole\obj\Debug\DroneCommandConsole.csproj.CopyComplete
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Final\DroneCommandConsole\obj\Debug\DroneCommandConsole.exe
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Final\DroneCommandConsole\obj\Debug\DroneCommandConsole.pdb
