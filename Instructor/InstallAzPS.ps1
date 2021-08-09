@@ -14,7 +14,7 @@ Register-PSRepository -Default -Verbose
 Set-PSRepository -Name "PSGallery" -InstallationPolicy Trusted
 
 Install-Module -Name PowerShellGet -Force
-Install-Module -Name Az -Repository PSGallery -Force
+Install-Module -Name Az -Repository PSGallery -AllowClobber -Force
 
 # Restart the web server so that system PATH updates take effect
 Stop-Service was -Force
