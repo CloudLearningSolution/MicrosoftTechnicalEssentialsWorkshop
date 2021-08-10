@@ -24,5 +24,9 @@ Install-Module -Name Az -Repository PSGallery -AllowClobber -Force
 
 # Run these commands below seperately and select "Yes" when prompted.
 Invoke-WebRequest -Uri https://aka.ms/installazurecliwindows -OutFile .\AzureCLI.msi; Start-Process msiexec.exe -Wait -ArgumentList '/I AzureCLI.msi /quiet'; rm .\AzureCLI.msi
+
+# Download Microsoft SQL Server Express for LOCALDB
+# https://www.microsoft.com/en-us/sql-server/sql-server-downloads
+
 #>
 ######################   Region End   #####################################
