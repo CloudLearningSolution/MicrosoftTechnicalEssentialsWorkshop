@@ -9,3 +9,9 @@ C:\Users\david\repo\JVSSoCalTalentProgram-main2\DroneFactoryAPI\obj\Debug\DroneF
 C:\Users\david\repo\JVSSoCalTalentProgram-main2\DroneFactoryAPI\obj\Debug\DroneFactoryAPI.csproj.CoreCompileInputs.cache
 C:\Users\david\repo\JVSSoCalTalentProgram-main2\DroneFactoryAPI\obj\Debug\DroneFactoryAPI.dll
 C:\Users\david\repo\JVSSoCalTalentProgram-main2\DroneFactoryAPI\obj\Debug\DroneFactoryAPI.pdb
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\DroneFactoryAPI\bin\Debug\DroneFactoryAPI.dll
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\DroneFactoryAPI\bin\Debug\DroneFactoryAPI.pdb
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\DroneFactoryAPI\obj\Debug\DroneFactoryAPI.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\DroneFactoryAPI\obj\Debug\DroneFactoryAPI.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\DroneFactoryAPI\obj\Debug\DroneFactoryAPI.dll
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\DroneFactoryAPI\obj\Debug\DroneFactoryAPI.pdb

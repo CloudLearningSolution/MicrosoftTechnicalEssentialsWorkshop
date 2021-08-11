@@ -27,6 +27,7 @@ Invoke-WebRequest -Uri https://aka.ms/installazurecliwindows -OutFile .\AzureCLI
 
 # Download Microsoft SQL Server Express for LOCALDB
 # https://www.microsoft.com/en-us/sql-server/sql-server-downloads
+# Select the SQL Server 2019 Express Edition Download Media; LocalDB
 
 #>
 ######################   Region End   #####################################

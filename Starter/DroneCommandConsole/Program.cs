@@ -1,4 +1,5 @@
-﻿using System;
+﻿/* //Important:Delete the characters located on this line.
+using System;
 using System.Collections.Generic;
 using System.Data;
 using System.Configuration;
@@ -88,6 +89,8 @@ namespace AutoLotCUIClient
 			 * Q: Quits program
 
 			*/
+/* //Important:Delete the characters located on this line.
+ * 
 			WriteLine placeholder
 			WriteLine placeholder
 			WriteLine placeholder
@@ -205,3 +208,4 @@ namespace AutoLotCUIClient
 
 	}
 }
+  //Important:Remove the characters located on this line. */
