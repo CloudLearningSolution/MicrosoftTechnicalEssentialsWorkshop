@@ -5,7 +5,8 @@ Sponsered by ![Logo of the project](https://biz.prlog.org/JVSSoCal/logo.jpg)
 
 
 ## Name of the project
-JVS SoCaL Veterans Talent Program
+Microsoft Technical Essentials Wokshop
+Veterans Talent Program
 
 ## Overview
 This repository is part of a project focused on delivering case study workshops designed to embolden diverse veteran communities through job training, mentoring, and education to transform lives and empower veterans. This course introduces the essentials required for learners to provide value in today’s job markets where modern technology is at the forefront of digital transformation.
