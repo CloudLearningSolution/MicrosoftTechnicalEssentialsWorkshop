@@ -1,0 +1,12 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_4\FunWithMethods\bin\Debug\FunWithMethods.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_4\FunWithMethods\bin\Debug\FunWithMethods.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_4\FunWithMethods\bin\Debug\FunWithMethods.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_4\FunWithMethods\obj\Debug\FunWithMethods.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_4\FunWithMethods\obj\Debug\FunWithMethods.pdb
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod2\Chapter_3\FunWithMethods\bin\Debug\FunWithMethods.exe.config
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod2\Chapter_3\FunWithMethods\bin\Debug\FunWithMethods.exe
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod2\Chapter_3\FunWithMethods\bin\Debug\FunWithMethods.pdb
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod2\Chapter_3\FunWithMethods\obj\Debug\FunWithMethods.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod2\Chapter_3\FunWithMethods\obj\Debug\FunWithMethods.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod2\Chapter_3\FunWithMethods\obj\Debug\FunWithMethods.exe
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod2\Chapter_3\FunWithMethods\obj\Debug\FunWithMethods.pdb

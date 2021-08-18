@@ -1,0 +1,7 @@
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod2\Chapter_3\BasicDataTypes\bin\Debug\BasicDataTypes.exe.config
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod2\Chapter_3\BasicDataTypes\bin\Debug\BasicDataTypes.exe
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod2\Chapter_3\BasicDataTypes\bin\Debug\BasicDataTypes.pdb
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod2\Chapter_3\BasicDataTypes\obj\Debug\BasicDataTypes.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod2\Chapter_3\BasicDataTypes\obj\Debug\BasicDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod2\Chapter_3\BasicDataTypes\obj\Debug\BasicDataTypes.exe
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod2\Chapter_3\BasicDataTypes\obj\Debug\BasicDataTypes.pdb

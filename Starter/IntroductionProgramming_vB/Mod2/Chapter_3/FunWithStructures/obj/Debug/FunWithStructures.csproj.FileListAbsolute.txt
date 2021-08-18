@@ -1,0 +1,12 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_4\FunWithStructures\bin\Debug\FunWithStructures.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_4\FunWithStructures\bin\Debug\FunWithStructures.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_4\FunWithStructures\bin\Debug\FunWithStructures.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_4\FunWithStructures\obj\Debug\FunWithStructures.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_4\FunWithStructures\obj\Debug\FunWithStructures.pdb
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod2\Chapter_3\FunWithStructures\bin\Debug\FunWithStructures.exe.config
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod2\Chapter_3\FunWithStructures\bin\Debug\FunWithStructures.exe
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod2\Chapter_3\FunWithStructures\bin\Debug\FunWithStructures.pdb
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod2\Chapter_3\FunWithStructures\obj\Debug\FunWithStructures.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod2\Chapter_3\FunWithStructures\obj\Debug\FunWithStructures.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod2\Chapter_3\FunWithStructures\obj\Debug\FunWithStructures.exe
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod2\Chapter_3\FunWithStructures\obj\Debug\FunWithStructures.pdb
