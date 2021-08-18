@@ -1,6 +1,9 @@
 # Microsoft Technical Essentials Wokshop
 Sponsered by ![Logo of the project](https://biz.prlog.org/JVSSoCal/logo.jpg)
 - Sponsered by Microsoft Learn : https://learn.microsoft.com/#/
+- Sponsered by LAVTTA : https://www.jvs-socal.org/program/los-angeles-veterans-technology-training-academy/
+- Sponsered by WDACS : https://wdacs.lacounty.gov/
+- Sponsered by Eric Garcetti : https://www.lamayor.org/
 - Developed by FastLane Training : https://www.fastlane.live/us_en/
 
 
