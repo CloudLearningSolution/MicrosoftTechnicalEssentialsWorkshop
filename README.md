@@ -48,7 +48,7 @@ ClickOnce
 
 ## Features
 
-Entity Framework exposes Drone Inventory date on a ASP.NET Web Application
+Entity Framework exposes Drone Inventory data on a ASP.NET Web Application
 
 Desktop application reads and writes using sql data client connection object.
 
