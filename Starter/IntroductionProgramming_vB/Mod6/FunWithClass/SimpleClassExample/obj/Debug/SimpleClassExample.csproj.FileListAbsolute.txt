@@ -1,0 +1,13 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\SimpleClassExample\bin\Debug\SimpleClassExample.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\SimpleClassExample\bin\Debug\SimpleClassExample.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\SimpleClassExample\bin\Debug\SimpleClassExample.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\SimpleClassExample\obj\Debug\SimpleClassExample.csprojResolveAssemblyReference.cache
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\SimpleClassExample\obj\Debug\SimpleClassExample.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\SimpleClassExample\obj\Debug\SimpleClassExample.pdb
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod6\FunWithClass\SimpleClassExample\bin\Debug\SimpleClassExample.exe.config
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod6\FunWithClass\SimpleClassExample\bin\Debug\SimpleClassExample.exe
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod6\FunWithClass\SimpleClassExample\bin\Debug\SimpleClassExample.pdb
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod6\FunWithClass\SimpleClassExample\obj\Debug\SimpleClassExample.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod6\FunWithClass\SimpleClassExample\obj\Debug\SimpleClassExample.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod6\FunWithClass\SimpleClassExample\obj\Debug\SimpleClassExample.exe
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod6\FunWithClass\SimpleClassExample\obj\Debug\SimpleClassExample.pdb

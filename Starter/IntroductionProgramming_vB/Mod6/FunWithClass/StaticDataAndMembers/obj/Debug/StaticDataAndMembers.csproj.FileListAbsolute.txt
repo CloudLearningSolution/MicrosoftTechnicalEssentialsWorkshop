@@ -1,0 +1,13 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\StaticDataAndMembers\bin\Debug\StaticDataAndMembers.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\StaticDataAndMembers\bin\Debug\StaticDataAndMembers.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\StaticDataAndMembers\bin\Debug\StaticDataAndMembers.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\StaticDataAndMembers\obj\Debug\StaticDataAndMembers.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\StaticDataAndMembers\obj\Debug\StaticDataAndMembers.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\StaticDataAndMembers\obj\Debug\StaticDataAndMembers.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod6\FunWithClass\StaticDataAndMembers\bin\Debug\StaticDataAndMembers.exe.config
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod6\FunWithClass\StaticDataAndMembers\bin\Debug\StaticDataAndMembers.exe
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod6\FunWithClass\StaticDataAndMembers\bin\Debug\StaticDataAndMembers.pdb
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod6\FunWithClass\StaticDataAndMembers\obj\Debug\StaticDataAndMembers.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod6\FunWithClass\StaticDataAndMembers\obj\Debug\StaticDataAndMembers.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod6\FunWithClass\StaticDataAndMembers\obj\Debug\StaticDataAndMembers.exe
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod6\FunWithClass\StaticDataAndMembers\obj\Debug\StaticDataAndMembers.pdb

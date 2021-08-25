@@ -1,0 +1,13 @@
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\ConstData\bin\Debug\ConstData.exe.config
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\ConstData\bin\Debug\ConstData.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\ConstData\bin\Debug\ConstData.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\ConstData\obj\Debug\ConstData.exe
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\ConstData\obj\Debug\ConstData.pdb
+C:\MyBooks\C# Book (7th ed)\Code\Chapter_5\ConstData\obj\Debug\ConstData.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod6\FunWithClass\ConstData\bin\Debug\ConstData.exe.config
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod6\FunWithClass\ConstData\bin\Debug\ConstData.exe
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod6\FunWithClass\ConstData\bin\Debug\ConstData.pdb
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod6\FunWithClass\ConstData\obj\Debug\ConstData.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod6\FunWithClass\ConstData\obj\Debug\ConstData.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod6\FunWithClass\ConstData\obj\Debug\ConstData.exe
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod6\FunWithClass\ConstData\obj\Debug\ConstData.pdb
