@@ -12,5 +12,3 @@ Instructor Assisted Labs:
 Inheritance
 Polymorphism
 
-Instructor notes: 
-Pages 205 - 245
