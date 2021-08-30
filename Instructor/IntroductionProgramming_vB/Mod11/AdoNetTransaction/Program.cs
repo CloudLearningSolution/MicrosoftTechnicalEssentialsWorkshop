@@ -1,11 +1,11 @@
-﻿/* //TODO :Delete this line and wait for further instruction.
+﻿
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using AutoLotDAL;
-using AutoLotDAL.ConnectedLayer;
+//using AutoLotDAL;
+//using AutoLotDAL.ConnectedLayer;
 using static System.Console;
 
 namespace AdoNetTransaction
@@ -21,4 +21,3 @@ namespace AdoNetTransaction
 	}
 }
 }
-*/ //TODO :Delete this line and wait for further instruction.

@@ -4,3 +4,10 @@ C:\MyBooks\C# Book (7th ed)\Code\Chapter_9\IssuesWithNonGenericCollections\bin\D
 C:\MyBooks\C# Book (7th ed)\Code\Chapter_9\IssuesWithNonGenericCollections\obj\Debug\IssuesWithNonGenericCollections.csprojResolveAssemblyReference.cache
 C:\MyBooks\C# Book (7th ed)\Code\Chapter_9\IssuesWithNonGenericCollections\obj\Debug\IssuesWithNonGenericCollections.exe
 C:\MyBooks\C# Book (7th ed)\Code\Chapter_9\IssuesWithNonGenericCollections\obj\Debug\IssuesWithNonGenericCollections.pdb
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod4\Chapter_4\IssuesWithNonGenericCollections\bin\Debug\IssuesWithNonGenericCollections.exe.config
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod4\Chapter_4\IssuesWithNonGenericCollections\bin\Debug\IssuesWithNonGenericCollections.exe
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod4\Chapter_4\IssuesWithNonGenericCollections\bin\Debug\IssuesWithNonGenericCollections.pdb
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod4\Chapter_4\IssuesWithNonGenericCollections\obj\Debug\IssuesWithNonGenericCollections.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod4\Chapter_4\IssuesWithNonGenericCollections\obj\Debug\IssuesWithNonGenericCollections.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod4\Chapter_4\IssuesWithNonGenericCollections\obj\Debug\IssuesWithNonGenericCollections.exe
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod4\Chapter_4\IssuesWithNonGenericCollections\obj\Debug\IssuesWithNonGenericCollections.pdb

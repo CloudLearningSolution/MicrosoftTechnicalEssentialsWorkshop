@@ -12,7 +12,7 @@ namespace BasicDataTypes
     {
         static void Main(string[] args)
         {
-            //Console.WriteLine("***** Fun with Basic Data Types *****\n");
+            Console.WriteLine("***** Fun with Basic Data Types *****\n");
             //LocalVarDeclarations();
             //NewingDataTypes();
             //ObjectFunctionality();
