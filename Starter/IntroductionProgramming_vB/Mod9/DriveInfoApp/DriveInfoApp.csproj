@@ -36,7 +36,7 @@
     <ApplicationIcon>drone.ico</ApplicationIcon>
   </PropertyGroup>
   <PropertyGroup>
-    <SignManifests>true</SignManifests>
+    <SignManifests>false</SignManifests>
   </PropertyGroup>
   <PropertyGroup>
     <ManifestCertificateThumbprint>60B063C3AD95E465F58A3BE3336EE9CFEDDBD456</ManifestCertificateThumbprint>
@@ -59,7 +59,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
-    <None Include="DriveInfoApp_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="drone.ico" />

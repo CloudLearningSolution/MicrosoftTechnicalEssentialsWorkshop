@@ -1,5 +1,4 @@
-﻿/* //TODO :Delete this line and wait for further instruction.
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -15,7 +14,7 @@ namespace BasicConsoleIO
 
             Console.ReadLine();
         }
-
+/* //TODO :Delete this line and wait for further instruction.
         #region Get user data
 
         #endregion
@@ -23,6 +22,6 @@ namespace BasicConsoleIO
         #region Format numerical data
 
         #endregion
+*/ //TODO :Delete this line and wait for further instruction.
     }
 }
-*/ //TODO :Delete this line and wait for further instruction.

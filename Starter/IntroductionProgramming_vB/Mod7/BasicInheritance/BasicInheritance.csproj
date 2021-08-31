@@ -36,7 +36,7 @@
     <ApplicationIcon>drone.ico</ApplicationIcon>
   </PropertyGroup>
   <PropertyGroup>
-    <SignManifests>true</SignManifests>
+    <SignManifests>false</SignManifests>
   </PropertyGroup>
   <PropertyGroup>
     <ManifestCertificateThumbprint>87FE98003767E6CB7B7B829D384612CC7687FCF1</ManifestCertificateThumbprint>
@@ -62,7 +62,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="BasicInheritance_TemporaryKey.pfx" />
     <None Include="Cars.cd" />
   </ItemGroup>
   <ItemGroup>

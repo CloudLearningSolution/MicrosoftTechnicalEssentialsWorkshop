@@ -3,3 +3,9 @@ C:\Users\david\repo\C#6\CodeExamples\Ch21_CodeSamples\AutoLotDAL\bin\Debug\AutoL
 C:\Users\david\repo\C#6\CodeExamples\Ch21_CodeSamples\AutoLotDAL\obj\Debug\AutoLotDAL.csproj.CoreCompileInputs.cache
 C:\Users\david\repo\C#6\CodeExamples\Ch21_CodeSamples\AutoLotDAL\obj\Debug\AutoLotDAL.dll
 C:\Users\david\repo\C#6\CodeExamples\Ch21_CodeSamples\AutoLotDAL\obj\Debug\AutoLotDAL.pdb
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod11\AutoLotDAL\bin\Debug\AutoLotDAL.dll
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod11\AutoLotDAL\bin\Debug\AutoLotDAL.pdb
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod11\AutoLotDAL\obj\Debug\AutoLotDAL.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod11\AutoLotDAL\obj\Debug\AutoLotDAL.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod11\AutoLotDAL\obj\Debug\AutoLotDAL.dll
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod11\AutoLotDAL\obj\Debug\AutoLotDAL.pdb

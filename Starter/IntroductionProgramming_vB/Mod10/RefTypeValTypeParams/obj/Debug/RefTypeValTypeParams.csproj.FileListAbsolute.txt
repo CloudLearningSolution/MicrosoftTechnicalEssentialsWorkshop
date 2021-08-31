@@ -3,3 +3,10 @@ C:\MyBooks\C# Book (7th ed)\Code\Chapter_4\RefTypeValTypeParams\bin\Debug\RefTyp
 C:\MyBooks\C# Book (7th ed)\Code\Chapter_4\RefTypeValTypeParams\bin\Debug\RefTypeValTypeParams.pdb
 C:\MyBooks\C# Book (7th ed)\Code\Chapter_4\RefTypeValTypeParams\obj\Debug\RefTypeValTypeParams.exe
 C:\MyBooks\C# Book (7th ed)\Code\Chapter_4\RefTypeValTypeParams\obj\Debug\RefTypeValTypeParams.pdb
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod10\RefTypeValTypeParams\bin\Debug\RefTypeValTypeParams.exe.config
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod10\RefTypeValTypeParams\bin\Debug\RefTypeValTypeParams.exe
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod10\RefTypeValTypeParams\bin\Debug\RefTypeValTypeParams.pdb
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod10\RefTypeValTypeParams\obj\Debug\RefTypeValTypeParams.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod10\RefTypeValTypeParams\obj\Debug\RefTypeValTypeParams.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod10\RefTypeValTypeParams\obj\Debug\RefTypeValTypeParams.exe
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod10\RefTypeValTypeParams\obj\Debug\RefTypeValTypeParams.pdb

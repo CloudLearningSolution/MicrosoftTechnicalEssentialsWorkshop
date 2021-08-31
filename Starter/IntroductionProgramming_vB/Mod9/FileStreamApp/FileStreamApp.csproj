@@ -36,7 +36,7 @@
     <ApplicationIcon>drone.ico</ApplicationIcon>
   </PropertyGroup>
   <PropertyGroup>
-    <SignManifests>true</SignManifests>
+    <SignManifests>false</SignManifests>
   </PropertyGroup>
   <PropertyGroup>
     <ManifestCertificateThumbprint>E5358DE80081788BAC55A49B39473CAB369A32EC</ManifestCertificateThumbprint>
@@ -59,7 +59,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
-    <None Include="FileStreamApp_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="drone.ico" />

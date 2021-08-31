@@ -1,5 +1,4 @@
-﻿/* //TODO :Delete this line and wait for further instruction.
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -20,4 +19,3 @@ namespace StreamWriterReaderApp
         }
     }
 }
-*/ //TODO :Delete this line and wait for further instruction.

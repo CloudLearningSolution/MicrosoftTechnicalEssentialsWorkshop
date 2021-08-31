@@ -5,3 +5,10 @@ C:\Users\david\Desktop\JVCSoCal_Vet\Programming\IntroProgrammingC_v2\Mod10\CastA
 C:\Users\david\Desktop\JVCSoCal_Vet\Programming\IntroProgrammingC_v2\Mod10\CastAndConversionType\obj\Debug\CastAndConversionType.csproj.CoreCompileInputs.cache
 C:\Users\david\Desktop\JVCSoCal_Vet\Programming\IntroProgrammingC_v2\Mod10\CastAndConversionType\obj\Debug\CastAndConversionType.exe
 C:\Users\david\Desktop\JVCSoCal_Vet\Programming\IntroProgrammingC_v2\Mod10\CastAndConversionType\obj\Debug\CastAndConversionType.pdb
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod10\CastAndConversionType\bin\Debug\CastAndConversionType.exe.config
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod10\CastAndConversionType\bin\Debug\CastAndConversionType.exe
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod10\CastAndConversionType\bin\Debug\CastAndConversionType.pdb
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod10\CastAndConversionType\obj\Debug\CastAndConversionType.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod10\CastAndConversionType\obj\Debug\CastAndConversionType.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod10\CastAndConversionType\obj\Debug\CastAndConversionType.exe
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\IntroductionProgramming_vB\Mod10\CastAndConversionType\obj\Debug\CastAndConversionType.pdb
