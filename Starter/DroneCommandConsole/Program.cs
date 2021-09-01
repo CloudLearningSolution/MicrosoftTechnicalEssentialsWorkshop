@@ -1,4 +1,25 @@
-﻿/* //Important:Delete the characters located on this line.
+﻿#region Delete this entire region before reviewing the tasks labeled TODO
+using System;
+
+
+namespace DroneCommandConsole
+{
+	class Program
+	{
+		static void Main(string[] args)
+		{
+			Console.WriteLine("***** Drone Command Console *****\n");
+
+
+			Console.ReadLine();
+		}
+	}
+}
+
+#endregion
+
+#region Do NOT delete this region. Read the instructions in the comments or ask your instructor for assistance.
+/* //Important:Delete the characters located on this line.
 using System;
 using System.Collections.Generic;
 using System.Data;
@@ -209,3 +230,4 @@ namespace AutoLotCUIClient
 	}
 }
   //Important:Remove the characters located on this line. */
+#endregion

@@ -1,3 +1,19 @@
-﻿/* //TODO :Delete this line and wait for further instruction.
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-*/ //TODO :Delete this line and wait for further instruction.
+namespace ObjectOverrides
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("***** Object Overrides *****\n");
+
+
+            Console.ReadLine();
+        }
+    }
+}

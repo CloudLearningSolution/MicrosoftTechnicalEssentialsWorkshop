@@ -12,3 +12,9 @@ C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\DroneCommandConsole\
 C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\DroneCommandConsole\obj\Debug\DroneCommandConsole.csproj.CoreCompileInputs.cache
 C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\DroneCommandConsole\obj\Debug\DroneCommandConsole.exe
 C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\DroneCommandConsole\obj\Debug\DroneCommandConsole.pdb
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\DroneCommandConsole\bin\Debug\DroneCommandConsole.exe.config
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\DroneCommandConsole\bin\Debug\DroneCommandConsole.exe
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\DroneCommandConsole\bin\Debug\DroneCommandConsole.pdb
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\DroneCommandConsole\bin\Debug\DroneFactoryAPI.dll
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\DroneCommandConsole\bin\Debug\DroneFactoryAPI.pdb
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Starter\DroneCommandConsole\obj\Debug\DroneCommandConsole.csproj.CopyComplete

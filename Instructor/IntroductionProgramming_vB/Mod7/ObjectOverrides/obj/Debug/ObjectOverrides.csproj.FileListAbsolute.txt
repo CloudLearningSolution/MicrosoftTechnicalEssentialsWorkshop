@@ -3,3 +3,10 @@ C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\ObjectOverrides\bin\Debug\ObjectOverr
 C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\ObjectOverrides\bin\Debug\ObjectOverrides.pdb
 C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\ObjectOverrides\obj\Debug\ObjectOverrides.exe
 C:\MyBooks\C# Book (7th ed)\Code\Chapter_8\ObjectOverrides\obj\Debug\ObjectOverrides.pdb
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Instructor\IntroductionProgramming_vB\Mod7\ObjectOverrides\bin\Debug\ObjectOverrides.exe.config
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Instructor\IntroductionProgramming_vB\Mod7\ObjectOverrides\bin\Debug\ObjectOverrides.exe
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Instructor\IntroductionProgramming_vB\Mod7\ObjectOverrides\bin\Debug\ObjectOverrides.pdb
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Instructor\IntroductionProgramming_vB\Mod7\ObjectOverrides\obj\Debug\ObjectOverrides.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Instructor\IntroductionProgramming_vB\Mod7\ObjectOverrides\obj\Debug\ObjectOverrides.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Instructor\IntroductionProgramming_vB\Mod7\ObjectOverrides\obj\Debug\ObjectOverrides.exe
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Instructor\IntroductionProgramming_vB\Mod7\ObjectOverrides\obj\Debug\ObjectOverrides.pdb
