@@ -1,5 +1,4 @@
-﻿/* //TODO :Delete this line and wait for further instruction.
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -25,4 +24,3 @@ namespace BasicConsoleIO
         #endregion
     }
 }
-*/ //TODO :Delete this line and wait for further instruction.

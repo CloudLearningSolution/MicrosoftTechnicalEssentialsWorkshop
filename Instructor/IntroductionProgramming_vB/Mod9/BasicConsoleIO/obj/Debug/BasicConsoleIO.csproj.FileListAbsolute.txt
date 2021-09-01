@@ -1,0 +1,7 @@
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Instructor\IntroductionProgramming_vB\Mod9\BasicConsoleIO\bin\Debug\BasicConsoleIO.exe.config
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Instructor\IntroductionProgramming_vB\Mod9\BasicConsoleIO\bin\Debug\BasicConsoleIO.exe
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Instructor\IntroductionProgramming_vB\Mod9\BasicConsoleIO\bin\Debug\BasicConsoleIO.pdb
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Instructor\IntroductionProgramming_vB\Mod9\BasicConsoleIO\obj\Debug\BasicConsoleIO.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Instructor\IntroductionProgramming_vB\Mod9\BasicConsoleIO\obj\Debug\BasicConsoleIO.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Instructor\IntroductionProgramming_vB\Mod9\BasicConsoleIO\obj\Debug\BasicConsoleIO.exe
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\Instructor\IntroductionProgramming_vB\Mod9\BasicConsoleIO\obj\Debug\BasicConsoleIO.pdb
