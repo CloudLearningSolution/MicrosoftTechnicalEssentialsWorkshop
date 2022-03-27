@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DroneDALConnection-Web.config Connection String" description="DroneDALConnection Connection String used in web.config by the application to access the database." defaultValue="data source=(LocalDb)\MSSQLLocalDB;initial catalog=DroneDb;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\david\\Desktop\\JVCSoCal_Vet\\Programming\\src\\DroneWebApplication\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DroneDALConnection']/@connectionString" />
+  </parameter>
+</parameters>

@@ -1,0 +1,12 @@
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\DroneDAL\bin\Release\DroneDAL.dll.config
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\DroneDAL\bin\Release\DroneDAL.dll
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\DroneDAL\bin\Release\DroneDAL.pdb
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\DroneDAL\bin\Release\EntityFramework.dll
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\DroneDAL\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\DroneDAL\bin\Release\EntityFramework.xml
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\DroneDAL\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\DroneDAL\obj\Release\DroneDAL.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\DroneDAL\obj\Release\DroneDAL.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\DroneDAL\obj\Release\DroneDAL.csproj.CopyComplete
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\DroneDAL\obj\Release\DroneDAL.dll
+C:\Users\david\Desktop\JVCSoCal_Vet\Programming\src\DroneDAL\obj\Release\DroneDAL.pdb
