@@ -20,10 +20,10 @@ This repository is part of a project focused on delivering case study workshops 
 
 ### Initial Configuration
 
-All projects inlcuded in this repo require Go Deploy Labs.
+All projects inlcuded in this repo require Go Deploy Labs running Windows Server 2022.
 ## Developing
 
-Visual Studio 2017 or later versions.
+Visual Studio 2019 or later versions.
 Visual Studio community editions supported.
 Sql Server Express edition with LocalDb configuration.
 
@@ -31,7 +31,7 @@ Sql Server Express edition with LocalDb configuration.
 Instructions are included after attendees register for the program.
 
 ### Building
-
+Version 2.0
 Repository owner will maintain src code and ensure portability.
 
 ### Deploying / Publishing
