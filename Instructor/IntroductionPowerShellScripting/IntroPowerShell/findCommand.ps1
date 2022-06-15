@@ -1,0 +1,1 @@
+get-command get-*EnterTheNounorVerb*

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b82ade5b-b93b-4946-b154-84c5e95bbed0": {
+      "ProjectGuid": "b82ade5b-b93b-4946-b154-84c5e95bbed0",
+      "DisplayName": "DroneDAL",
+      "ColorIndex": 0
+    },
+    "7f45282c-a1cb-453c-9799-11dc92367879": {
+      "ProjectGuid": "7f45282c-a1cb-453c-9799-11dc92367879",
+      "DisplayName": "DroneWebApplication",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
