@@ -1,0 +1,1 @@
+get-help get-command -Parameter #<ParameterName>

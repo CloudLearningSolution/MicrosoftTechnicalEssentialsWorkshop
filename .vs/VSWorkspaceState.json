@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Starter",
+    "\\Instructor\\IntroductionPowerShellScripting",
     "\\Starter\\DroneCommandConsole",
     "\\Starter\\DroneFactoryAPI"
   ],
+  "SelectedNode": "\\Instructor",
   "PreviewInSolutionExplorer": false
 }

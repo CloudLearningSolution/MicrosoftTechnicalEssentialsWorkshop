@@ -1,0 +1,1 @@
+get-command get-command | select-object HelpUri
